@@ -71,4 +71,4 @@ kramdown:
   show_warnings     : false
 
 name: Team Montreal
-theme: minima
+theme: jekyll-theme-minima
