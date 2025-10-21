@@ -4,5 +4,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Stephanie Patterson - HCI and Accessibility Researcher
-description: Personal website for Stephanie Patterson, a Human-Computer Interaction and Accessibility Researcher.
+title: Stephanie Patterson Personal Website
+description: Master's Student in Human-Computer Interaction at Rochester Institute of Technology
+author: Stephanie Patterson
+logo: /headshot.png
