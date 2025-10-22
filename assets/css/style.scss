@@ -8,8 +8,13 @@ body {
     font-family: 'Atkinson Hyperlegible';
 }
 
-h1 {
-    color: rgb(43, 10, 43);
+a {
+    color: rgb(53, 13, 53);
+}
+
+a:hover, a:focus {
+  color:rgb(29, 7, 29);
+  font-weight: bold;
 }
 
 .downloads {
