@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 
 body {
-    background-color: #efd9ff;
-    font: 'Atkinson Hyperlegible';
+    background-color: rgb(255, 255, 170);
+    font-family: 'Atkinson Hyperlegible';
+}
+
+title {
+    color: rgb(43, 10, 43);
 }
