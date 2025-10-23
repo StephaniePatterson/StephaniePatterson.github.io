@@ -18,7 +18,11 @@ a:hover, a:focus {
   font-weight: bold;
 }
 
-.downloads {
+.downloads a {
     float:left;
     border-radius:5px;
+}
+
+.wrapper {
+    background-color: white;
 }
